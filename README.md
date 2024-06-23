@@ -1,4 +1,4 @@
-# The Wild Oasis
+# the-wild-oasis
 
 The Wild Oasis is a hotel management website built on top of Supabase, designed to streamline the operations of managing hotel bookings, users, cabins, settings, and guests. The project leverages modern web technologies including React, React Query, React Router, Styled Components, and many more to deliver a robust and user-friendly application.
 
